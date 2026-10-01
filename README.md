@@ -6,7 +6,7 @@ This repo is intended to provide a preview of Intel® Graphics Driver (xe) for t
 This repo contains patches that are already merged in [drm-tip](https://gitlab.freedesktop.org/drm/tip) or sent to drm mailing list for review.
 
 Since it is just for showcasing the capabilities of the next-gen GPUs so quality is not guaranteed and any issue needs to be reproduced and reported on [drm-tip](https://drm.pages.freedesktop.org/intel-docs/how-to-file-i915-bugs.html).
-
+Some not breaking change.
 
 # Contains
 |   |   | |
